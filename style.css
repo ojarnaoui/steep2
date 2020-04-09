@@ -50,7 +50,7 @@ a:active {
   right: 0;
   top: 0;
   box-shadow: 0 0px 9px 4px rgba(0, 0, 0, 0.1), 0 -5px 2px 2px rgba(0, 0, 0, 0.1);
-  background: white;
+  background: #fff;
   z-index: 10000;
   text-align: center;
 }
@@ -500,7 +500,7 @@ a:active {
 
 .rad-body-wrapper {
   position: absolute;
-  left: 230px;
+  left: 400px;
   top: 75px;
   width: auto;
   right: 0;
@@ -1003,7 +1003,7 @@ a:active {
 }
 .rad-timeline .rad-timeline-item .rad-timeline-panel {
   position: relative;
-  width: 40%;
+  width: 30%;
   background: #FFF;
   padding: 15px;
   top: -20px;
